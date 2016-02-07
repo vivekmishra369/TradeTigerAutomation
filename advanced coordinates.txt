@@ -1,0 +1,64 @@
+advance trade tiger coordinates
+
+
+app start click at -1155,267
+
+home - 63,32
+logoff - 23,77
+exit - 70,76
+exit yes/logoff yes(and probably universal yes) -654,392
+exit/logoff no -713,395 -may be universal 
+
+market watch - f12
+add script - ctrl+i
+	exchange selector arrow - 881,299
+	bse -870,344 
+	nse by default
+	click to add script - 787,333
+	first script selector - 648,385
+	add button - 656,547
+	close button - 898,240 
+	
+	
+first script at -21,238 
+next script y coordinate increment - 20
+
+
+action buttons - 
+buy - 970,67 f1
+sell - 970,89 f2
+sam - 970,112  ctrl+e 
+buy bigtrade - 1009,65 shift+f1  
+sell bigtrade - 1009,86 shift+f2 
+
+buy/sell box coordinates - (always press delete befor typewriting)
+
+cross - 1068,333 
+quantity box click area - 780,373
+trigger price click - 940,376 
+product type arrow - 570,433
+	big trade click place - 567,481
+	
+validity arrow - 706,434 
+	ioc cordinate-700,500
+	
+upper place button - 840,436 
+
+order box extension arrow - 1060,406
+	bracket order - 1060,449
+	bkt+tsl - 1060,493
+	book profit click area - 400,540
+	stop loss - 500,540
+	limit loss to -600,540
+	place button - 880,540
+
+confirm button - 530,470
+
+
+report button - 226,34 
+
+orders button - 40,65 
+order button arrow - 80,66 
+	latest coordinnates - 290,280
+	cancel button - 790,215
+	cancel all button - 850,215 

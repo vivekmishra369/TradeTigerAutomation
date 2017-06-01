@@ -315,7 +315,6 @@ confirm_order():
 
 
 #start()
-#login('mishra94','369121zxy','NQUUS3')
 #time.sleep(5)
 #setup_marketwatch('ICICIBANK')
 
